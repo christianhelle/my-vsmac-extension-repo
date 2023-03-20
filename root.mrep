@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addin>
+    <Url>Sample.mpack</Url>
+    <Addin>
+      <Id>Sample</Id>
+      <Namespace>Sample</Namespace>
+      <Name>My First Extension</Name>
+      <Version>0.1.17</Version>
+      <BaseVersion />
+      <Author>Christian Resma Helle</Author>
+      <Copyright />
+      <Url />
+      <Description>My first Visual Studio for Mac extension</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">3188</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
